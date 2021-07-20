@@ -1,0 +1,2 @@
+$variable=hola;
+print ($hola);
